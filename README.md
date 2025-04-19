@@ -8,6 +8,7 @@ Tools:
 - Flask
 - HTML
 
+screenshot (![alt text](image-1.png))
 How to use:
 1. Open terminal
 2. Type: python app.py
